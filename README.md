@@ -10,7 +10,7 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Front-End Eğitiminde oluşturd
 
 ## Usage
 
-
+![Proje Resmi](https://github.com/seydadeniz/kodluyoruzilkrepo/blob/main/proje.png)
 
 ## Contributing
 
